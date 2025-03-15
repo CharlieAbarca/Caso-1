@@ -7,22 +7,6 @@
 **Nombre de la aplicación:** Payment Assistant  
 **Descripción breve:** Aplicación que ofrece servicios de ayuda para realizar pagos automáticos mediante IA de voz.
 
-Esta documentación presenta de forma detallada la estructura de la base de datos y las funcionalidades clave de *Payment Assistant*, enfocándose en la capacidad de automatizar pagos y programar transacciones a través de comandos de voz. A lo largo del documento se abordan aspectos como la gestión de usuarios, métodos de pago, planes de suscripción, seguridad y soporte internacional, reflejando así la visión completa de una plataforma moderna de asistencia financiera.
-
----
-
-# Payment Assistant 
-
-## Descripción 
-
-Imagina un asistente personal que no solo recuerda tus pagos recurrentes, sino que también los ejecuta por ti con solo confirmar un recordatorio. Con tecnología de inteligencia artificial de vanguardia, nuestra app te permite registrar y programar pagos de servicios como luz, agua, renta y más, usando simplemente tu voz. Olvídate de fechas vencidas, multas o estrés financiero. Además, con planes flexibles que se adaptan a tus necesidades, disfrutas de una experiencia gratuita para un pago mensual y opciones premium para múltiples transacciones. 
-
-Es importante recalcar que nuestro diseño de base de datos, en las tablas de usuarios, roles, permisos, transacciones y todas las demás, está inspirado en las explicaciones del profesor durante las clases, bajo el principio de siempre insertar y no actualizar. 
-
-Esto reduce el riesgo de errores, además de mejorar el rendimiento del sistema. Ahora bien, a continuación, están los requerimientos funcionales explicados, las tablas correspondientes necesarias, el por qué son importantes, y además algunos ejemplos de aplicaciones o sitios web que utilizan estos métodos:
-
----
-
 ## Interacción por Voz y Registro de Pagos 
 
 **Funcionalidad:**  
